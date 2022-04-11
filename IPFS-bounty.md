@@ -1,4 +1,4 @@
-## IPFS : IPFS: IPFS-Filecoin based Web3 storage has been used for permanent decentralized storage of DAO documents on DAO drive
+## IPFS : IPFS-Filecoin based Web3 storage has been used for permanent decentralized storage of DAO documents on DAO drive
 
 
 ##### https://github.com/Disha1998/TheDAO-Tool/blob/master/src/utils/Web3Storage.js
