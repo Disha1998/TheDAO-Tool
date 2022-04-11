@@ -1,6 +1,8 @@
-## IPFS : 
-##### https://github.com/mansijoshi17/DAOManagmentTool/blob/master/src/utils/Web3Storage.js
-##### https://github.com/mansijoshi17/DAOManagmentTool/blob/master/src/pages/Drive.js
+## IPFS : IPFS: IPFS-Filecoin based Web3 storage has been used for permanent decentralized storage of DAO documents on DAO drive
+
+
+##### https://github.com/Disha1998/TheDAO-Tool/blob/master/src/utils/Web3Storage.js
+##### https://github.com/Disha1998/TheDAO-Tool/blob/master/src/pages/Drive.js
 ```
 import { Web3Storage } from "web3.storage";
 function getAccessToken() {
@@ -13,6 +15,7 @@ function getAccessToken() {
   // WEB3STORAGE_TOKEN environment variable before you run your code.
   return process.env.REACT_APP_WEB3_STORAGE_API_KEY;
 }
+
 function makeStorageClient() {
   return new Web3Storage({ token: getAccessToken() });
 }
@@ -23,3 +26,7 @@ export default async function   storage(files) {
 }
  let cid = await storage(data);
 ```
+
+<img width="1435" alt="MicrosoftTeams-image (7) (1)" src="https://user-images.githubusercontent.com/69969675/162677793-4ad78f1e-cd1c-4d03-9fdd-af9147edc1fc.png">
+
+
