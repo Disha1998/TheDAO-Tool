@@ -1,6 +1,6 @@
 ## Superfluid
-#####  https://github.com/mansijoshi17/DAOManagmentTool/blob/master/src/superfluid/index.js
-#####  https://github.com/mansijoshi17/DAOManagmentTool/blob/master/src/pages/Payroll.js    
+#####  https://github.com/Disha1998/TheDAO-Tool/blob/master/src/superfluid/index.js
+#####  https://github.com/Disha1998/TheDAO-Tool/blob/master/src/pages/Payroll.js    
 ```
 import SuperfluidSDK from "@superfluid-finance/js-sdk";
 import { Web3Provider } from "@ethersproject/providers";
