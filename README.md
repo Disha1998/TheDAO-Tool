@@ -37,16 +37,16 @@ We have built this platform with Reactjs as a frontend, Polygon for smart contra
 
 **Superfluid:** The payroll management system of The DAO Tool has been achieved through the use of superfluid. Where we are using superfluid to send salaries to DAO members.
 
-https://github.com/mansijoshi17/DAOManagmentTool/blob/master/Superfluid.md
+https://github.com/Disha1998/TheDAO-Tool/blob/master/Superfluid.md
 
 **IPFS:** IPFS-Filecoin based  Web3 storage has been used for permanent decentralized storage of DAO documents on DAO drive
 
-https://github.com/mansijoshi17/DAOManagmentTool/blob/master/IPFS-bounty.md
+https://github.com/Disha1998/TheDAO-Tool/blob/master/IPFS-bounty.md
 
 **The Graph:** Subgraph query is used to fetch the outgoing payroll salary stream being distributed to DAO members. 
 
-https://github.com/mansijoshi17/DAOManagmentTool/blob/master/Superfluid.md
+https://github.com/Disha1998/TheDAO-Tool/blob/master/Superfluid.md
 
 **Skill Wallet:** Skill wallet is used to login into the TheDAOTool to access the 
 
-https://github.com/mansijoshi17/DAOManagmentTool/blob/master/Skill-Wallet.md
+https://github.com/Disha1998/TheDAO-Tool/blob/master/Skill-Wallet.md
